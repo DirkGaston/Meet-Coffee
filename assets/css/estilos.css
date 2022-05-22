@@ -147,8 +147,9 @@ p {
 footer {
     background-color: #000F08;
     color: white;
-    padding: 120px 100px 100px 100px;
+    padding: 120px 100px 50px 100px;
     font-size: 25px;
+    width: 100%;
 }
 
 footer a {
@@ -163,7 +164,6 @@ footer p {
 
 #Container-Simposio {
     width: 1085px;
-    height: 565px;
     margin: auto;
 }
 
